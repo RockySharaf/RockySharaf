@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/rockysharaf" target="blank"><img src="https://img.shields.io/twitter/follow/rockysharaf?logo=twitter&style=for-the-badge" alt="rockysharaf" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **Canada**
+- 💬 Ask me about **Ask me about my hobbies, and I'll gladly share my love of painting and singing with you.**
 
 - 📫 How to reach me **rockysharaf@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am an excellent cook.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
