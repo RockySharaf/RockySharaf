@@ -1,5 +1,17 @@
 <h1 align="center">🚀 Greetings, I'm Rocky Sharaf! 🚀</h1>
 <h3 align="center">A Data Enthusiast Embarking On An Exciting Journey</h3>
+<p align="center">Software engineer in Peterborough, Canada · <a href="https://rockysharaf.github.io/">rockysharaf.github.io</a></p>
+
+## 🪨 Featured project: [Rock Preview](https://github.com/RockySharaf/rock-preview)
+
+**Find any file instantly, browse with the real Windows 11 Explorer, and preview anything without opening it.**
+A free, open-source Windows app I built in C# / .NET 10: it indexes whole NTFS drives in seconds, hosts Windows' own
+File Explorer, and previews hundreds of formats — PSD, CorelDRAW, TIFF, RAW photos, PDF, Office, CAD and video.
+
+<a href="https://github.com/RockySharaf/rock-preview"><img src="https://raw.githubusercontent.com/RockySharaf/rock-preview/main/docs/images/explorer.png" alt="Rock Preview — instant file search and preview for Windows" width="760"></a>
+
+[⬇ Download Rock Preview](https://github.com/RockySharaf/rock-preview/releases/latest) · [Source code](https://github.com/RockySharaf/rock-preview) · ⭐ Stars are appreciated!
+
 
 🌐 Navigating the enthralling labyrinth of Data Analytics, transforming raw data into insightful stories.
 
